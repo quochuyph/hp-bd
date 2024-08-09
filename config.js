@@ -1,8 +1,8 @@
-const nameGirl = 'Chị Trang';
-const giftUrl = 'https://www.facebook.com/profile.php?id=100091636334386&mibextid=LQQJ4d';
+const nameGirl = 'Bạn Kha';
+const giftUrl = 'https://www.facebook.com/profile.php?id=61553783829230';
 const eventName = 'Chúc Mừng Sinh Nhật';
-const titleCard = 'Tặng Chị Trang';
-const contentCard = 'Chúc Chị một sinh nhật tràn ngập niềm vui. Chúc Chị gặp nhiều may mắn, học giỏi hơn, ngày càng xinh đẹp hơn nha kkk';
-const giftImage = 'a0f25d247256690572e4d126a34b5115.jpeg';
+const titleCard = 'Tặng Bạn Kha';
+const contentCard = 'Chúc Bà một sinh nhật tràn ngập niềm vui. Chúc Bà gặp nhiều may mắn, học ngày càng giỏi hơn, ngày càng xinh đẹp hơn, và Đỗ NV 1 nhaaaaa';
+const giftImage = '1.jpg';
 const base64 = '';
-const giftImageBase64 = "data:image/jpeg;base64, " + base64;
+const giftImageBase64 = "data:image/jpg;base64, " + base64;
